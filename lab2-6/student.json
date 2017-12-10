@@ -1,0 +1,23 @@
+{
+  "bookNumber": "65673647",
+  "courses": [
+    {
+      "title": "Physics",
+      "startDate": "2017-04-12",
+      "endDate": "2017-06-01",
+      "state": "PASSED"
+    },
+    {
+      "title": "Math",
+      "startDate": "2016-03-20",
+      "endDate": "2017-05-19",
+      "state": "FAILED"
+    },
+    {
+      "title": "Chemistry",
+      "startDate": "2019-07-16",
+      "endDate": "2019-10-18",
+      "state": "NEW"
+    }
+  ]
+}

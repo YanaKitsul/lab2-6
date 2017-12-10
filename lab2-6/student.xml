@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<student>
+    <bookNumber>65673647</bookNumber>
+    <courses>
+        <course>
+            <title>Physics</title>
+            <startDate>2017-04-12</startDate>
+            <endDate>2017-06-01</endDate>
+            <state>PASSED</state>
+        </course>
+        <course>
+            <title>Math</title>
+            <startDate>2016-03-20</startDate>
+            <endDate>2017-05-19</endDate>
+            <state>FAILED</state>
+        </course>
+        <course>
+            <title>Chemistry</title>
+            <startDate>2019-07-16</startDate>
+            <endDate>2019-10-18</endDate>
+            <state>NEW</state>
+        </course>
+    </courses>
+</student>
